@@ -3,4 +3,7 @@ this is a second fie that i added to my project.
 this is the second message writing
 
 
-this is the third line in the the second.txt
+this is the third line in the the second.txt 
+
+
+This is a line i'changing for the branch for the new_fearure
