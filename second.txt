@@ -18,3 +18,4 @@ welcome to shorten_branch
 
 
 teh above five lines are waste i dont know how it get added
+this filenameis second.txt bt its not a second file
